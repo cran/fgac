@@ -13,7 +13,7 @@ dirac1(u, x)
   \item{x}{ real value }
 }
 
-}
+
 \value{
   dirac1(u,x)=1 if x>=u and dirac1(u,x)=0 in other case.
 }

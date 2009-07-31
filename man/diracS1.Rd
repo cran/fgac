@@ -12,7 +12,7 @@ diracS1(u, x)
   \item{u}{ real value }
   \item{x}{ real value }
 }
-}
+
 \value{
  diracS1(u,x)=1 if x<u and diracS1(u,x)=0 in other case.}
 \author{ Veronica A. Gonzalez-Lopez }

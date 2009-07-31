@@ -14,7 +14,7 @@ phiBB7(theta, delta, s)
   \item{delta}{ positive, real parameter}
   \item{s}{ real vector  }
 }
-}
+
 \value{
   return the value for the transform in the vector s
 }

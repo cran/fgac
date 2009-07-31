@@ -19,7 +19,7 @@ pcopula2(theta, delta, psi, v1, ivpsi, v2, s, t)
   \item{t}{ real vector }
 }
 
-}
+
 \value{return the values from bidimensional cumulative for (s,t) sample using (theta,delta) parameters and Laplace transformation.}
 \references{ Veronica A. Gonzalez-Lopez and Nelson I. Tanaka. \sQuote{Bi-variate Data Modeling Through Generalized Archimedean Copula} RT-MAE 2003-03}
 \author{ Veronica A. Gonzalez-Lopez }

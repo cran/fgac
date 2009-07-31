@@ -11,7 +11,7 @@ psiGumbel(delta, s)
   \item{delta}{ parameter, real (>=1) }
   \item{s}{ real positive vector }
 }
-}
+
 \value{return the value for the transform in the vector s }
 \references{ Harry Joe. \sQuote{Multivariate Models and Dependence Concepts} Monogra. Stat. & Appl. Probab. 73. Chapman and Hall (1997) }
 \author{ Veronica A. Gonzalez-Lopez }

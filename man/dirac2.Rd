@@ -15,7 +15,7 @@ dirac2(u, v, x, y)
   \item{x}{ real value}
   \item{y}{ real value }
 }
-}
+
 \value{
   dirac2(u,v,x,y)=1 if x>=u and y>=v, in other case dirac2(u,v,x,y)=0.
 }

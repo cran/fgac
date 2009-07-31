@@ -2,7 +2,7 @@
 \alias{OptimCBB}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{ OptimCBB}
-\description{The best Fitting into generalized archimedean copula is selected 
+\description{The best fitting into the generalized archimedean copula class is selected 
 
 }
 \usage{

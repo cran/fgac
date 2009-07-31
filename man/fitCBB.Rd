@@ -16,7 +16,7 @@ cumulative2, parameters1, parameters2)
   \item{y}{ real vector }
   \item{theta0}{ parameter in the model pCBBi (in variable copulamodel). For default, theta0 is obtained from fitlambdas }
   \item{delta0}{ parameter in the model pCBBi (in variable copulamodel). For default, delta0 is obtained from fitlambdas}
-  \item{copulamodel}{specific model that we need to fit, it need to be one option like  {pCBB1 (default), pCBB2, pCBB3, pCBB4, pCBB5, pCBB6, pCBB7, pCMax, pCMin}
+  \item{copulamodel}{specific model that we need to fit, it need to be one option from: pCBB1 (default), pCBB2, pCBB3, pCBB4, pCBB5, pCBB6, pCBB7, pCMax, pCMin
 }
   \item{m}{ integer positive number (default=15) }
   \item{step}{ real positive number (default=0.01) }

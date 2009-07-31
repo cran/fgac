@@ -15,7 +15,7 @@ pCMin(theta, delta, s, t)
   \item{s}{ real vector }
   \item{t}{ real vector }
 }
-}
+
 \value{
   returns the values from bidimensional cumulative for (s,t) sample.
 }

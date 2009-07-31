@@ -12,7 +12,7 @@ ivpsiKS(delta, t)
   \item{delta}{ real and positive parameter }
   \item{t}{ real positive vector  }
 }
-}
+
 \value{return the value for the inverse transform in the vector t}
 \references{ Harry Joe. \sQuote{Multivariate Models and Dependence Concepts} Monogra. Stat. & Appl. Probab. 73. Chapman and Hall (1997)  }
 \author{ Veronica A. Gonzalez-Lopez}
